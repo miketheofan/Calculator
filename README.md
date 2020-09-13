@@ -1,5 +1,5 @@
 # Calculator
-Simulation of Basic Calculator written in C++.The following is a project created in the context of an Introduction to Programming course at the University of Athens.This version of calculator covers basic operators such as : 
+Simulation of Basic Calculator written in C.The following is a project created in the context of an Introduction to Programming course at the University of Athens.This version of calculator covers basic operators such as : 
 * Addition
 * Substraction
 * Multiplication
